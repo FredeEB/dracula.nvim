@@ -88,10 +88,10 @@ local function setup(configs)
       StatusLineTermNC = { fg = colors.comment, },
 
       Directory = { fg = colors.cyan, },
-      DiffAdd = { fg = colors.bg, bg = colors.green, },
-      DiffChange = { fg = colors.orange, },
-      DiffDelete = { fg = colors.red, },
-      DiffText = { fg = colors.comment, },
+      DiffAdd = { bg = colors.subtle_green, },
+      DiffChange = { bg = colors.subtle_orange, },
+      DiffDelete = { fg = colors.subtle_red, },
+      DiffText = { bg = colors.subtle_yellow },
 
       ErrorMsg = { fg = colors.bright_red, },
       VertSplit = { fg = colors.black, },

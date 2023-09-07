@@ -23,6 +23,13 @@ return {
    bright_cyan = "#BCF4F5",
    bright_white = "#FFFFFF", -- index 15
 
+   subtle_red = "#552d2c",
+   subtle_green = "#375839",
+   subtle_yellow = "#5b5d42",
+   subtle_purple = "#4a415b",
+   subtle_pink = "#59394c",
+   subtle_cyan = "#44585e",
+
    menu = "#21222C",
    visual = "#3E4452",
    gutter_fg = "#4B5263",
